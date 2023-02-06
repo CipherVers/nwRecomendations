@@ -1,5 +1,10 @@
 # AI Algorithm for Recommendation Model
 ## Steps
+### Get da data
+- Get data from yelp dataset
+- Scrap data from tripafvisor
+- 
+
 ### Pre-Processing
 - Clean Data 
 - Remove Invalid Entries 
